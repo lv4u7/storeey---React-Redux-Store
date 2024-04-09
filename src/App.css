@@ -1,0 +1,14 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #615e5e;
+}
+.cart-ico {
+  font-size: 200%;
+  color: white;
+}
+.left {
+  font-size: 150%;
+}
